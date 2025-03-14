@@ -4,4 +4,4 @@
 👩🏻‍🎓 Studied Computer Science at the Syrian virtual university
 💭 Currently refining my skills as a Full-Stack Web Developer!
 
-[![leen's github status:]([![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats))]
+[![leen's github stats:]([![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats))]
